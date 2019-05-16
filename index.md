@@ -41,5 +41,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 你好绅士先生
 
 ###
+**3.0-beta**
+- 夜间模式
+- 优化播放体验
+
+###
 **2.9.3**
 - 修复部分机型闪退
