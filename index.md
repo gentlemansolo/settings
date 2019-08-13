@@ -40,6 +40,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 你好绅士先生
 
+**3.0**
+- 修复废柴
+
 **3.0-beta2**
 - 修复91
 
